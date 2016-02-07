@@ -1,5 +1,7 @@
 # AspectLockedImageView
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AspectLockedImageView-green.svg?style=true)](https://android-arsenal.com/details/1/3115)
+
 This is a small enhancement to the regular android ImageView, the AspectLockedImageView takes obviously, an Aspect Ratio, that it will respect when it is applied to a view of predefined bounds or when set to fill screen width.
 
 ## Install
@@ -8,7 +10,7 @@ This is a small enhancement to the regular android ImageView, the AspectLockedIm
 ```
 
 ## Usage
-To add the DragScaleCircleView to your application, specify com.samwolfand.aspectlockedimageview in your layout XML. make sure to set the *imageAspectRatio* attribute
+To add the AspectLockedImageView to your application, specify com.samwolfand.aspectlockedimageview in your layout XML. make sure to set the *imageAspectRatio* attribute
 
 ```xml
          <com.samwolfand.AspectLockedImageView
